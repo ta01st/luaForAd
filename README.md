@@ -5,9 +5,10 @@
 ### QQ群 720098517 
 
 本脚本建议配合盘古后台系统，fakeapk hook 等工具使用。
-| 工具名称	| 下载链接	|  备注|
-| ---- |:-----:| --:|
-|盘古后台系统|https://gitee.com/kuangyufei/pangu||
+
+|工具名称| 下载链接|备注|
+|----|-----|---|
+|盘古后台系统|https://gitee.com/kuangyufei/pangu|盘古系统后台|
 |fakeapk|https://gitee.com/kuangyufei/fakeapk|比 008更强大的手机信息修改器|
 |盘古VPN系统|https://gitee.com/kuangyufei/pangu_vpn|vpn自动选择，切换工具|
 |盘古管理系统|https://gitee.com/kuangyufei/pangu_manage|实时查看各广告平台刷量数据，包括留存比例，水军量，转化率等等|
