@@ -1,0 +1,15 @@
+ {
+            "id": 3,
+            "userId": 1,
+            "platformId": 0,
+            "appKey": "0983542e92f34b3681304bf547348d22",
+            "channel": "360|baidu|xiaomayi|fengyun|jili|yingyongbao|letao|youba|hexi",
+            "name": "九段",
+            "packageName": "org.pangu.turing.jiuduan",
+            "apkPath": "jiuduan.apk",
+            "token": "0983542e92f34b3681304bf547348d22",
+            "isCanRun": 1,
+            "isClose": 0,
+            "createDate": 1484539633000,
+            "updateDate": 1484539633000
+        }

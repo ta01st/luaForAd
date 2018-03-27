@@ -1,0 +1,28 @@
+{	
+	"info": {
+        "version": "2.0",
+        "author": "turing",
+        "data": "2017-2-16",
+		"reportUrl": "http://pangu.u-app.cn/mobile/report.pangu",
+		"luaPath":"/mnt/sdcard/TouchSprite/lua/",
+		"apkPath": "/mnt/sdcard/TouchSprite/res/apk/",
+		"jsonPath": "/mnt/sdcard/TouchSprite/lua/json/",
+		"remainPath": "/mnt/sdcard/TouchSprite/lua/json/remain/",
+        "ping": [
+            {
+                "url": "http://api.ip138.com/query/?datatype=jsonp&token=38c2ffed72e199a01ce60f3231c79ebc"
+            },
+			{
+				"url":"http://pv.sohu.com/cityjson"
+			}
+        ],
+        "resolutionJsonName": "json_resolution.json",
+        "fixJsonName": "json_fixed_data.json",
+		"newDeviceName":"json_new_device_info.json",
+		"remainDeviceName":"json_remain_device_info.json",
+		"appInfoName":"json_app_info.json",
+		"screen_portait":"screen_portait.apk",
+		"black_ip_count":5,
+		"black_ip_list":[{"ip":"101.105.54.92"},{"ip":"14.103.227.150"},{"ip":"101.105.54.92"},{"ip":"182.34.185.65"},{"ip":"59.40.75.153"}]
+    }
+}

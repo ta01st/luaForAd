@@ -1,0 +1,234 @@
+{
+	"supportCount":"14",
+	"supportResolution_1": [
+		{
+			"resolution":"R720X1280",
+			"closeInterstitial":{	"x": 610,
+									"y": 415}
+		},
+		{
+			"resolution":"R540X960",
+			"closeInterstitial":{	"x": 542,
+									"y": 480}
+		},
+		{
+			"resolution":"R480X800",
+			"closeInterstitial":{	"x": 520,
+									"y": 508}
+		},
+		{
+			"resolution":"R320X480",
+			"closeInterstitial":{	"x": 578,
+									"y": 445}
+		},
+		{
+			"resolution":"R1080X1920",
+			"closeInterstitial":{	"x": 700,
+									"y": 280}
+		},
+		{
+			"resolution":"R1200X1920",
+			"closeInterstitial":{	"x": 700,
+									"y": 235}
+		},
+		{
+			"resolution":"R1280X800",
+			"closeInterstitial":{	"x": 640,
+									"y": 388}
+		},
+		{
+			"resolution":"R480X854",
+			"closeInterstitial":{	"x": 518,
+									"y": 505}
+		},
+		{
+			"resolution":"R480X960",
+			"closeInterstitial":{	"x": 518,
+									"y": 505}
+		},
+		{
+			"resolution":"R256X320",
+			"closeInterstitial":{	"x": 531,
+									"y": 492}
+		},
+		{
+			"resolution":"R544X960",
+			"closeInterstitial":{	"x": 543,
+									"y": 480}
+		},
+		{
+			"resolution":"R600X1024",
+			"closeInterstitial":{	"x": 565,
+									"y": 460}
+		},
+		{
+			"resolution":"R768X1024",
+			"closeInterstitial":{	"x": 627,
+									"y": 396}
+		},
+		{
+			"resolution":"R800X1280",
+			"closeInterstitial":{	"x": 640,
+									"y": 385}
+		},
+		{
+			"resolution":"R800X1280",
+			"closeInterstitial":{	"x": 640,
+									"y": 385}
+		}
+	],
+	"supportResolution_2": [
+		{
+			"resolution":"R720X1280",
+			"closeInterstitial":{	"x": 102,
+									"y": 370}
+		},
+		{
+			"resolution":"R540X960",
+			"closeInterstitial":{	"x": 191,
+									"y": 456}
+		},
+		{
+			"resolution":"R480X800",
+			"closeInterstitial":{	"x": 222,
+									"y": 467}
+		},
+		{
+			"resolution":"R320X480",
+			"closeInterstitial":{	"x": 302,
+									"y": 511}
+		},
+		{
+			"resolution":"R1080X1920",
+			"closeInterstitial":{	"x": 43,
+									"y": 195}
+		},
+		{
+			"resolution":"R1200X1920",
+			"closeInterstitial":{	"x": 43,
+									"y": 134}
+		},
+		{
+			"resolution":"R1280X800",
+			"closeInterstitial":{	"x": 63,
+									"y": 330}
+		},
+		{
+			"resolution":"R480X854",
+			"closeInterstitial":{	"x": 222,
+									"y": 468}
+		},
+		{
+			"resolution":"R480X960",
+			"closeInterstitial":{	"x": 222,
+									"y": 466}
+		},
+		{
+			"resolution":"R256X320",
+			"closeInterstitial":{	"x": 335,
+									"y": 540}
+		},
+		{
+			"resolution":"R544X960",
+			"closeInterstitial":{	"x": 190,
+									"y": 453}
+		},
+		{
+			"resolution":"R600X1024",
+			"closeInterstitial":{	"x": 160,
+									"y": 452}
+		},
+		{
+			"resolution":"R768X1024",
+			"closeInterstitial":{	"x": 80,
+									"y": 346}
+		},
+		{
+			"resolution":"R800X1280",
+			"closeInterstitial":{	"x": 62,
+									"y": 330}
+		},
+		{
+			"resolution":"R800X1280",
+			"closeInterstitial":{	"x": 62,
+									"y": 330}
+		}
+	],
+	"supportResolution_3": [
+		{
+			"resolution":"R720X1280",
+			"closeInterstitial":{	"x": 102,
+									"y": 370}
+		},
+		{
+			"resolution":"R540X960",
+			"closeInterstitial":{	"x": 191,
+									"y": 456}
+		},
+		{
+			"resolution":"R480X800",
+			"closeInterstitial":{	"x": 222,
+									"y": 467}
+		},
+		{
+			"resolution":"R320X480",
+			"closeInterstitial":{	"x": 302,
+									"y": 511}
+		},
+		{
+			"resolution":"R1080X1920",
+			"closeInterstitial":{	"x": 43,
+									"y": 195}
+		},
+		{
+			"resolution":"R1200X1920",
+			"closeInterstitial":{	"x": 43,
+									"y": 134}
+		},
+		{
+			"resolution":"R1280X800",
+			"closeInterstitial":{	"x": 63,
+									"y": 330}
+		},
+		{
+			"resolution":"R480X854",
+			"closeInterstitial":{	"x": 222,
+									"y": 468}
+		},
+		{
+			"resolution":"R480X960",
+			"closeInterstitial":{	"x": 222,
+									"y": 466}
+		},
+		{
+			"resolution":"R256X320",
+			"closeInterstitial":{	"x": 335,
+									"y": 540}
+		},
+		{
+			"resolution":"R544X960",
+			"closeInterstitial":{	"x": 190,
+									"y": 453}
+		},
+		{
+			"resolution":"R600X1024",
+			"closeInterstitial":{	"x": 160,
+									"y": 452}
+		},
+		{
+			"resolution":"R768X1024",
+			"closeInterstitial":{	"x": 80,
+									"y": 346}
+		},
+		{
+			"resolution":"R800X1280",
+			"closeInterstitial":{	"x": 62,
+									"y": 330}
+		},
+		{
+			"resolution":"R800X1280",
+			"closeInterstitial":{	"x": 62,
+									"y": 330}
+		}
+	]
+}
