@@ -1,4 +1,4 @@
----[[
+
 require "./inter/TSLib"
 json = require('./inter/json')  
 common = require('./inter/common')
@@ -6,16 +6,7 @@ pg_net = require('./inter/pg_net')
 xsd = require('./inter/xsd')
 yichu = require('./inter/yichu')
 juyou = require('./inter/juyou')
---]]
---[[
-require "TSLib"
-json = require('json')  
-common = require('common')
-pg_net = require('pg_net')
-xsd = require('xsd')
-yichu = require('yichu')
-juyou = require('juyou')
---]]
+
 gTaskIP = "88.88.88.88";
 gImei = "8888888888"; -- 初始IEMI
 isRunRemain = 0; -- 是否是运行留存的lua
