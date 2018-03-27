@@ -14,10 +14,10 @@
 |盘古管理系统|https://gitee.com/kuangyufei/pangu_manage|实时查看各广告平台刷量数据，包括留存比例，水军量，转化率等等|
 
 
-![image](https://gitee.com/kuangyufei/luaForAd/doc/main_lua.png)
+![image](https://gitee.com/kuangyufei/luaForAd/raw/master/doc/main_lua.png)
 
 同时运行3个模拟器刷机效果
-![image](https://gitee.com/kuangyufei/luaForAd/doc/ing.gif)
+![image](https://gitee.com/kuangyufei/luaForAd/raw/master/doc/ing.gif)
 
 
 
