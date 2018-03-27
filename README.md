@@ -16,7 +16,8 @@
 
 ![image](https://gitee.com/kuangyufei/luaForAd/raw/master/doc/main_lua.png)
 
-同时运行3个模拟器刷机效果
+### 同时运行3个模拟器刷机效果
+
 ![image](https://gitee.com/kuangyufei/luaForAd/raw/master/doc/ing.gif)
 
 
