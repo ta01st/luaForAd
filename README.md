@@ -2,7 +2,7 @@
 
 用触动精灵lua脚本刷各种广告，由后台下发个广告SDK任务，支持23种分辨率，支持水军，留存上报，留存可后台设置百分比，10多个平台广告同时刷，实时上报刷量数据
 
-### QQ群 720098517 微信：15817321796  验证注明：luaforad
+
 
 本脚本建议配合盘古后台系统，fakeapk hook 等工具使用。
 
@@ -20,6 +20,9 @@
 
 ![image](https://gitee.com/kuangyufei/luaForAd/raw/master/doc/ing.gif)
 
+### 联系作者
+
+QQ群 720098517 微信：15817321796  验证注明：luaforad
 
 
 
