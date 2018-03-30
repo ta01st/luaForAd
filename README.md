@@ -24,6 +24,9 @@
 
 QQ群 720098517 微信：15817321796  验证注明：luaforad
 
+### 给点赏银
+
+![image](https://gitee.com/kuangyufei/luaForAd/raw/master/doc/ds_gaitubao_com_305x305.jpg)
 
 
 
